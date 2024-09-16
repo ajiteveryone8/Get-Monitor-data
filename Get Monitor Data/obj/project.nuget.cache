@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EWk6exBUmzlTZtz45A8kfkKpYPifKny4rmBPqYpsDPc3W6jZkTACPsi34wrMWFSXtaEvaOlmS0hVE4cKnqoffw==",
+  "success": true,
+  "projectFilePath": "F:\\C# Project\\repos\\Get Monitor Data\\Get Monitor Data\\Get Monitor Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NEUROEQUILIBRIUM\\.nuget\\packages\\cake.powershell\\1.0.1\\cake.powershell.1.0.1.nupkg.sha512",
+    "C:\\Users\\NEUROEQUILIBRIUM\\.nuget\\packages\\microsoft.powershell.5.referenceassemblies\\1.1.0\\microsoft.powershell.5.referenceassemblies.1.1.0.nupkg.sha512",
+    "C:\\Users\\NEUROEQUILIBRIUM\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\NEUROEQUILIBRIUM\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\NEUROEQUILIBRIUM\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\NEUROEQUILIBRIUM\\.nuget\\packages\\windowsdisplayapi\\1.3.0.13\\windowsdisplayapi.1.3.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
